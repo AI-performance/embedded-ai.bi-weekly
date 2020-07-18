@@ -1,6 +1,6 @@
-# embedded-ai.bi-weekly
+# [embedded-ai.bi-weekly](https://www.ai-performance.com/embedded-ai.bi-weekly/)
 
-bi-weekly reports for embedded-ai.
+bi-weekly reports for embedded-ai: https://www.ai-performance.com/embedded-ai.bi-weekly/.
 
 |                    2                    |                    0                    |                    2                    |                    0                    |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
