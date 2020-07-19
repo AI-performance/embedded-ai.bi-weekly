@@ -1,5 +1,7 @@
 # [embedded-ai.bi-weekly](https://www.ai-performance.com/embedded-ai.bi-weekly/)
 
+[zhihu专栏](https://zhuanlan.zhihu.com/zhangxiaolongOptimization) wechat
+
 bi-weekly reports for embedded-ai: https://www.ai-performance.com/embedded-ai.bi-weekly/.
 
 |                    2                    |                    0                    |                    2                    |                    0                    |
