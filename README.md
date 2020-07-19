@@ -1,7 +1,6 @@
 # [embedded-ai.bi-weekly](https://www.ai-performance.com/embedded-ai.bi-weekly/)
 
-[zhihu专栏](https://zhuanlan.zhihu.com/zhangxiaolongOptimization) [wechat](NeuralTalk
-https://mp.weixin.qq.com/profile?src=3&timestamp=1595150474&ver=1&signature=B2YS5gjILaBxp7BcVczY8mzF7pYurhwqdXZcW3UnPfF6QuayjHc*PyFfigCyoc6l5Ou5RSc3eN4jeKvffBa5VA==)
+[zhihu专栏: AI移动端优化](https://zhuanlan.zhihu.com/zhangxiaolongOptimization) | [wechat: NeuralTalk](https://mp.weixin.qq.com/profile?src=3&timestamp=1595150474&ver=1&signature=B2YS5gjILaBxp7BcVczY8mzF7pYurhwqdXZcW3UnPfF6QuayjHc*PyFfigCyoc6l5Ou5RSc3eN4jeKvffBa5VA==)
 
 bi-weekly reports for embedded-ai: https://www.ai-performance.com/embedded-ai.bi-weekly/.
 
